@@ -25,6 +25,7 @@ static_content() {
         2.0 M M "Missing Keys      -->" missing_keys.sh \
         0.0 M A "Advanced Options  -->" advanced.sh \
         0.0 M E "Extras            -->" extras.sh \
+        0.0 M G "tmux-logging      -->" tmux_logging.sh \
         0.0 S \
         1.8 E p "Plugins inventory" "$d_scripts/plugins.sh" \
         0.0 C r "Reload configuration file" "$rld_cmd" \
